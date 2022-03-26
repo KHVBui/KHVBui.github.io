@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: kevinhvbui
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,12 +47,12 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Machine Learning
+    web_url: 
+    image_url: https://miro.medium.com/max/1024/1*3CXBOKNql4qS-lRyHT3pqw.png
 
-  - name: Web design
+  - name: Data Science
+    image_url: https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/08/17010729/shutterstock_1054542323.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Python
+    image_url: https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png
