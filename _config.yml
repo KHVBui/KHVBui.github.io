@@ -57,6 +57,12 @@ topics:
   - name: Python
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
     
+  - name: Biomedical Engineering
+    image_url: https://www.advancedengineeringuk.com/wp-content/uploads/sites/129/2020/03/Easyfairs_AE2019_UK_MDEngineering_ICON.jpg
+    
   - name: Health Literacy
     web_url: http://morningsignout.com/category/medicine/
     image_url: https://scontent-lax3-1.xx.fbcdn.net/v/t1.18169-9/12038023_763751470402281_1522596536482663445_n.png?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=_lgtK59Mb2oAX_dCm96&_nc_ht=scontent-lax3-1.xx&oh=00_AT8zfCdQYLki0b7GkY6oH7Ofav-ctRughqAuRsGdaiTTgw&oe=6264884A
+  
+  - name: Musical Arts
+    image_url: https://www.pngmart.com/files/16/Vector-Piano-Transparent-Background.png
